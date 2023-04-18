@@ -18,7 +18,7 @@
 </div>
 
 This book was designed for easily diving into and getting skilled with Rust It's very easy to use. All you need to do is to make each exercise compile without ERRORS and Panics!
-
+lol
 
 ## Reading online
 
